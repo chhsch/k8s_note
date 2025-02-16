@@ -56,6 +56,10 @@ To deploy the MongoDB and web application components, use the following commands
    kubectl apply -f webapp.yaml
    ```
    *Creates web application deployment and service (`webapp-deployment` and `webapp-service`).*
+   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://github.com/chhsch/k8s_note/blob/5d662076c7119c8a2c84ec8a0c456e79b1bbd03b/images/app.png" alt="Screenshot 1" width="300"/>
+</div>
+
 
 ## K8s Commands
 
